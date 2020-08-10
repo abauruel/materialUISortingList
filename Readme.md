@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Sorting List MaterialUI</h1>
-<p align="center">
+<p >
 This code is to test the use the MaterialUI table consuming api https://swapi.dev/api/films/ populating and ordering it </p>
 
 <p align="center">
